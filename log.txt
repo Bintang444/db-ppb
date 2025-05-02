@@ -1,0 +1,6 @@
+Array
+(
+    [nama] => tbintanh
+    [catatan] => I'm here
+    [hobi] => Adaaaa
+)
